@@ -2,7 +2,6 @@ package arrays_matrizes.exe1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.math.*;
 
 /*Ler um conjunto de n ´umeros reais, armazenando-o em vetor e calcular o quadrado das
 componentes deste vetor, armazenando o resultado em outro vetor. Os conjuntos t ˆem
