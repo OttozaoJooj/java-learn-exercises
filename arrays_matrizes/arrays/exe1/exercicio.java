@@ -1,4 +1,4 @@
-package arrays_matrizes.exe1;
+package arrays_matrizes.arrays.exe1;
 
 import java.util.ArrayList;
 import java.util.Iterator;
