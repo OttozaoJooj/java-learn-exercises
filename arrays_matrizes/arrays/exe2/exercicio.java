@@ -1,4 +1,4 @@
-package arrays_matrizes.exe2;
+package arrays_matrizes.arrays.exe2;
 import java.util.ArrayList;
 import java.util.Scanner;
 /*Faça um programa que leia um vetor de 8 posições e, em seguida, leia também dois va-

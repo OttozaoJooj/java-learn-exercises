@@ -1,4 +1,5 @@
-package arrays_matrizes.exe6;
+package arrays_matrizes.arrays.exe6;
+
 
 import java.util.ArrayList;
 import java.util.Scanner;
