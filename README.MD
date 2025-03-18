@@ -3,5 +3,5 @@
 
 ## Tipos de Exercícios
 - Lógica de Programação [x]
-- Arrays e Matrizes []
+- Arrays e Matrizes [x]
 - Programação Orientada a Objetos []
